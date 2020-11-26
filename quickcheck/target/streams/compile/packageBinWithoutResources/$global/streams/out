@@ -1,0 +1,27 @@
+[info] Packaging C:\Users\Chandra\Documents\Scala\exercise\quickcheck\target\scala-2.13\progfun2-quickcheck-without-resources_2.13-0.1.0-SNAPSHOT.jar ...
+[debug] Input file mappings:
+[debug] 	quickcheck\BinomialHeap.class
+[debug] 	  C:\Users\Chandra\Documents\Scala\exercise\quickcheck\target\scala-2.13\classes\quickcheck\BinomialHeap.class
+[debug] 	quickcheck\IntHeap.class
+[debug] 	  C:\Users\Chandra\Documents\Scala\exercise\quickcheck\target\scala-2.13\classes\quickcheck\IntHeap.class
+[debug] 	quickcheck\Heap.class
+[debug] 	  C:\Users\Chandra\Documents\Scala\exercise\quickcheck\target\scala-2.13\classes\quickcheck\Heap.class
+[debug] 	quickcheck\BinomialHeap$Node$.class
+[debug] 	  C:\Users\Chandra\Documents\Scala\exercise\quickcheck\target\scala-2.13\classes\quickcheck\BinomialHeap$Node$.class
+[debug] 	quickcheck
+[debug] 	  C:\Users\Chandra\Documents\Scala\exercise\quickcheck\target\scala-2.13\classes\quickcheck
+[debug] 	quickcheck\Bogus2BinomialHeap.class
+[debug] 	  C:\Users\Chandra\Documents\Scala\exercise\quickcheck\target\scala-2.13\classes\quickcheck\Bogus2BinomialHeap.class
+[debug] 	quickcheck\Bogus5BinomialHeap.class
+[debug] 	  C:\Users\Chandra\Documents\Scala\exercise\quickcheck\target\scala-2.13\classes\quickcheck\Bogus5BinomialHeap.class
+[debug] 	quickcheck\Bogus4BinomialHeap.class
+[debug] 	  C:\Users\Chandra\Documents\Scala\exercise\quickcheck\target\scala-2.13\classes\quickcheck\Bogus4BinomialHeap.class
+[debug] 	quickcheck\Bogus3BinomialHeap.class
+[debug] 	  C:\Users\Chandra\Documents\Scala\exercise\quickcheck\target\scala-2.13\classes\quickcheck\Bogus3BinomialHeap.class
+[debug] 	quickcheck\BinomialHeap$Node.class
+[debug] 	  C:\Users\Chandra\Documents\Scala\exercise\quickcheck\target\scala-2.13\classes\quickcheck\BinomialHeap$Node.class
+[debug] 	quickcheck\Bogus1BinomialHeap.class
+[debug] 	  C:\Users\Chandra\Documents\Scala\exercise\quickcheck\target\scala-2.13\classes\quickcheck\Bogus1BinomialHeap.class
+[debug] 	quickcheck\QuickCheckHeap.class
+[debug] 	  C:\Users\Chandra\Documents\Scala\exercise\quickcheck\target\scala-2.13\classes\quickcheck\QuickCheckHeap.class
+[info] Done packaging.

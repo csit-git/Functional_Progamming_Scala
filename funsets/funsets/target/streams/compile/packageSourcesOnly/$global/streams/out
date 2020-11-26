@@ -1,0 +1,9 @@
+[info] Packaging C:\Users\Chandra\Documents\Scala\exercise\funsets\funsets\target\scala-2.13\progfun1-funsets_2.13-0.1.0-SNAPSHOT-sources.jar ...
+[debug] Input file mappings:
+[debug] 	funsets\FunSets.scala
+[debug] 	  C:\Users\Chandra\Documents\Scala\exercise\funsets\funsets\src\main\scala\funsets\FunSets.scala
+[debug] 	funsets\FunSetsInterface.scala
+[debug] 	  C:\Users\Chandra\Documents\Scala\exercise\funsets\funsets\src\main\scala\funsets\FunSetsInterface.scala
+[debug] 	funsets\Main.scala
+[debug] 	  C:\Users\Chandra\Documents\Scala\exercise\funsets\funsets\src\main\scala\funsets\Main.scala
+[info] Done packaging.

@@ -1,0 +1,7 @@
+[info] Packaging C:\Users\Chandra\Documents\Scala\exercise\forcomp\target\scala-2.13\progfun1-forcomp_2.13-0.1.0-SNAPSHOT-sources.jar ...
+[debug] Input file mappings:
+[debug] 	forcomp\Anagrams.scala
+[debug] 	  C:\Users\Chandra\Documents\Scala\exercise\forcomp\src\main\scala\forcomp\Anagrams.scala
+[debug] 	forcomp\AnagramsInterface.scala
+[debug] 	  C:\Users\Chandra\Documents\Scala\exercise\forcomp\src\main\scala\forcomp\AnagramsInterface.scala
+[info] Done packaging.

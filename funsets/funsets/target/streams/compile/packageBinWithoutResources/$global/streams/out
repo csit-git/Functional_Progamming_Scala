@@ -1,0 +1,17 @@
+[info] Packaging C:\Users\Chandra\Documents\Scala\exercise\funsets\funsets\target\scala-2.13\progfun1-funsets-without-resources_2.13-0.1.0-SNAPSHOT.jar ...
+[debug] Input file mappings:
+[debug] 	funsets\Main.class
+[debug] 	  C:\Users\Chandra\Documents\Scala\exercise\funsets\funsets\target\scala-2.13\classes\funsets\Main.class
+[debug] 	funsets\Main$delayedInit$body.class
+[debug] 	  C:\Users\Chandra\Documents\Scala\exercise\funsets\funsets\target\scala-2.13\classes\funsets\Main$delayedInit$body.class
+[debug] 	funsets
+[debug] 	  C:\Users\Chandra\Documents\Scala\exercise\funsets\funsets\target\scala-2.13\classes\funsets
+[debug] 	funsets\Main$.class
+[debug] 	  C:\Users\Chandra\Documents\Scala\exercise\funsets\funsets\target\scala-2.13\classes\funsets\Main$.class
+[debug] 	funsets\FunSets.class
+[debug] 	  C:\Users\Chandra\Documents\Scala\exercise\funsets\funsets\target\scala-2.13\classes\funsets\FunSets.class
+[debug] 	funsets\FunSetsInterface.class
+[debug] 	  C:\Users\Chandra\Documents\Scala\exercise\funsets\funsets\target\scala-2.13\classes\funsets\FunSetsInterface.class
+[debug] 	funsets\FunSets$.class
+[debug] 	  C:\Users\Chandra\Documents\Scala\exercise\funsets\funsets\target\scala-2.13\classes\funsets\FunSets$.class
+[info] Done packaging.

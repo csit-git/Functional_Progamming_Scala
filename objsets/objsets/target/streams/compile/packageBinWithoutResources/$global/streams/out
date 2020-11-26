@@ -1,0 +1,43 @@
+[info] Packaging C:\Users\Chandra\Documents\Scala\exercise\objsets\objsets\target\scala-2.13\progfun1-objsets-without-resources_2.13-0.1.0-SNAPSHOT.jar ...
+[debug] Input file mappings:
+[debug] 	objsets\TweetSetInterface.class
+[debug] 	  C:\Users\Chandra\Documents\Scala\exercise\objsets\objsets\target\scala-2.13\classes\objsets\TweetSetInterface.class
+[debug] 	objsets\Nil$.class
+[debug] 	  C:\Users\Chandra\Documents\Scala\exercise\objsets\objsets\target\scala-2.13\classes\objsets\Nil$.class
+[debug] 	objsets\GoogleVsApple$.class
+[debug] 	  C:\Users\Chandra\Documents\Scala\exercise\objsets\objsets\target\scala-2.13\classes\objsets\GoogleVsApple$.class
+[debug] 	objsets\Main.class
+[debug] 	  C:\Users\Chandra\Documents\Scala\exercise\objsets\objsets\target\scala-2.13\classes\objsets\Main.class
+[debug] 	objsets\Main$.class
+[debug] 	  C:\Users\Chandra\Documents\Scala\exercise\objsets\objsets\target\scala-2.13\classes\objsets\Main$.class
+[debug] 	objsets\TweetReader$.class
+[debug] 	  C:\Users\Chandra\Documents\Scala\exercise\objsets\objsets\target\scala-2.13\classes\objsets\TweetReader$.class
+[debug] 	objsets\TweetSet.class
+[debug] 	  C:\Users\Chandra\Documents\Scala\exercise\objsets\objsets\target\scala-2.13\classes\objsets\TweetSet.class
+[debug] 	objsets
+[debug] 	  C:\Users\Chandra\Documents\Scala\exercise\objsets\objsets\target\scala-2.13\classes\objsets
+[debug] 	objsets\Tweet.class
+[debug] 	  C:\Users\Chandra\Documents\Scala\exercise\objsets\objsets\target\scala-2.13\classes\objsets\Tweet.class
+[debug] 	objsets\GoogleVsApple.class
+[debug] 	  C:\Users\Chandra\Documents\Scala\exercise\objsets\objsets\target\scala-2.13\classes\objsets\GoogleVsApple.class
+[debug] 	objsets\Cons.class
+[debug] 	  C:\Users\Chandra\Documents\Scala\exercise\objsets\objsets\target\scala-2.13\classes\objsets\Cons.class
+[debug] 	objsets\NonEmpty.class
+[debug] 	  C:\Users\Chandra\Documents\Scala\exercise\objsets\objsets\target\scala-2.13\classes\objsets\NonEmpty.class
+[debug] 	objsets\Nil.class
+[debug] 	  C:\Users\Chandra\Documents\Scala\exercise\objsets\objsets\target\scala-2.13\classes\objsets\Nil.class
+[debug] 	objsets\TweetData$.class
+[debug] 	  C:\Users\Chandra\Documents\Scala\exercise\objsets\objsets\target\scala-2.13\classes\objsets\TweetData$.class
+[debug] 	objsets\Empty.class
+[debug] 	  C:\Users\Chandra\Documents\Scala\exercise\objsets\objsets\target\scala-2.13\classes\objsets\Empty.class
+[debug] 	objsets\Main$delayedInit$body.class
+[debug] 	  C:\Users\Chandra\Documents\Scala\exercise\objsets\objsets\target\scala-2.13\classes\objsets\Main$delayedInit$body.class
+[debug] 	objsets\TweetData.class
+[debug] 	  C:\Users\Chandra\Documents\Scala\exercise\objsets\objsets\target\scala-2.13\classes\objsets\TweetData.class
+[debug] 	objsets\TweetList.class
+[debug] 	  C:\Users\Chandra\Documents\Scala\exercise\objsets\objsets\target\scala-2.13\classes\objsets\TweetList.class
+[debug] 	objsets\TweetReader$ParseTweets$.class
+[debug] 	  C:\Users\Chandra\Documents\Scala\exercise\objsets\objsets\target\scala-2.13\classes\objsets\TweetReader$ParseTweets$.class
+[debug] 	objsets\TweetReader.class
+[debug] 	  C:\Users\Chandra\Documents\Scala\exercise\objsets\objsets\target\scala-2.13\classes\objsets\TweetReader.class
+[info] Done packaging.

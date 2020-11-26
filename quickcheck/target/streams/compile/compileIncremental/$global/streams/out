@@ -1,0 +1,16 @@
+[debug] Full compilation, no sources in previous analysis.
+[debug] All sources are invalidated.
+[debug] Recompiling all 2 sources: invalidated sources (2) exceeded 50.0% of all sources
+[info] Compiling 2 Scala sources to C:\Users\Chandra\Documents\Scala\exercise\quickcheck\target\scala-2.13\classes ...
+[debug] Getting org.scala-sbt:compiler-bridge_2.13:1.2.5:compile for Scala 2.13.0
+[debug] Getting org.scala-sbt:compiler-bridge_2.13:1.2.5:compile for Scala 2.13.0
+[debug] [zinc] Running cached compiler 6584ec9c for Scala compiler version 2.13.0
+[debug] [zinc] The Scala compiler is invoked with:
+[debug] 	-language:implicitConversions
+[debug] 	-deprecation
+[debug] 	-bootclasspath
+[debug] 	C:\Program Files\Java\jdk1.8.0_231\jre\lib\resources.jar;C:\Program Files\Java\jdk1.8.0_231\jre\lib\rt.jar;C:\Program Files\Java\jdk1.8.0_231\jre\lib\sunrsasign.jar;C:\Program Files\Java\jdk1.8.0_231\jre\lib\jsse.jar;C:\Program Files\Java\jdk1.8.0_231\jre\lib\jce.jar;C:\Program Files\Java\jdk1.8.0_231\jre\lib\charsets.jar;C:\Program Files\Java\jdk1.8.0_231\jre\lib\jfr.jar;C:\Program Files\Java\jdk1.8.0_231\jre\classes;C:\Users\Chandra\Documents\Scala\exercise\quickcheck\null\Coursier\cache\v1\https\repo1.maven.org\maven2\org\scala-lang\scala-library\2.13.0\scala-library-2.13.0.jar
+[debug] 	-classpath
+[debug] 	C:\Users\Chandra\Documents\Scala\exercise\quickcheck\target\scala-2.13\classes;C:\Users\Chandra\Documents\Scala\exercise\quickcheck\null\Coursier\cache\v1\https\repo1.maven.org\maven2\org\scalacheck\scalacheck_2.13\1.14.0\scalacheck_2.13-1.14.0.jar;C:\Users\Chandra\Documents\Scala\exercise\quickcheck\null\Coursier\cache\v1\https\repo1.maven.org\maven2\org\scala-sbt\test-interface\1.0\test-interface-1.0.jar
+[debug] Scala compilation took 11.2197454 s
+[info] Done compiling.

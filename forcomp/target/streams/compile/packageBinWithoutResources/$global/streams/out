@@ -1,0 +1,13 @@
+[info] Packaging C:\Users\Chandra\Documents\Scala\exercise\forcomp\target\scala-2.13\progfun1-forcomp-without-resources_2.13-0.1.0-SNAPSHOT.jar ...
+[debug] Input file mappings:
+[debug] 	forcomp\Dictionary$.class
+[debug] 	  C:\Users\Chandra\Documents\Scala\exercise\forcomp\target\scala-2.13\classes\forcomp\Dictionary$.class
+[debug] 	forcomp\AnagramsInterface.class
+[debug] 	  C:\Users\Chandra\Documents\Scala\exercise\forcomp\target\scala-2.13\classes\forcomp\AnagramsInterface.class
+[debug] 	forcomp\Anagrams.class
+[debug] 	  C:\Users\Chandra\Documents\Scala\exercise\forcomp\target\scala-2.13\classes\forcomp\Anagrams.class
+[debug] 	forcomp\Dictionary.class
+[debug] 	  C:\Users\Chandra\Documents\Scala\exercise\forcomp\target\scala-2.13\classes\forcomp\Dictionary.class
+[debug] 	forcomp\Anagrams$.class
+[debug] 	  C:\Users\Chandra\Documents\Scala\exercise\forcomp\target\scala-2.13\classes\forcomp\Anagrams$.class
+[info] Done packaging.

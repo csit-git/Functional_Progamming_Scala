@@ -1,0 +1,11 @@
+[info] Packaging C:\Users\Chandra\Documents\Scala\exercise\objsets\objsets\target\scala-2.13\progfun1-objsets_2.13-0.1.0-SNAPSHOT-sources.jar ...
+[debug] Input file mappings:
+[debug] 	objsets\TweetData.scala
+[debug] 	  C:\Users\Chandra\Documents\Scala\exercise\objsets\objsets\src\main\scala\objsets\TweetData.scala
+[debug] 	objsets\TweetReader.scala
+[debug] 	  C:\Users\Chandra\Documents\Scala\exercise\objsets\objsets\src\main\scala\objsets\TweetReader.scala
+[debug] 	objsets\TweetSet.scala
+[debug] 	  C:\Users\Chandra\Documents\Scala\exercise\objsets\objsets\src\main\scala\objsets\TweetSet.scala
+[debug] 	objsets\TweetSetInterface.scala
+[debug] 	  C:\Users\Chandra\Documents\Scala\exercise\objsets\objsets\src\main\scala\objsets\TweetSetInterface.scala
+[info] Done packaging.

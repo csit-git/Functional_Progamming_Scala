@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="19f48ea9-58d3-4468-bfa0-5c059ab52060" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1kk7N8orKkF7EoO28ku1A8dEsKt" />
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="JUnit.QuickCheckSuite">
+    <configuration name="QuickCheckSuite" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="progfun2-quickcheck" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="quickcheck.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="quickcheck" />
+      <option name="MAIN_CLASS_NAME" value="quickcheck.QuickCheckSuite" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="QuickCheckSuite.Binomial$u0020heap$u0020satisfies$u0020properties$u002E$u0020$u00285pts$u0029" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="progfun2-quickcheck" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="quickcheck.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="quickcheck" />
+      <option name="MAIN_CLASS_NAME" value="quickcheck.QuickCheckSuite" />
+      <option name="METHOD_NAME" value="Binomial$u0020heap$u0020satisfies$u0020properties$u002E$u0020$u00285pts$u0029" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="QuickCheckSuite.Bogus$u0020$u00283$u0029$u0020binomial$u0020heap$u0020does$u0020not$u0020satisfy$u0020properties$u002E$u0020$u002810pts$u0029" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="progfun2-quickcheck" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="quickcheck.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="quickcheck" />
+      <option name="MAIN_CLASS_NAME" value="quickcheck.QuickCheckSuite" />
+      <option name="METHOD_NAME" value="Bogus$u0020$u00283$u0029$u0020binomial$u0020heap$u0020does$u0020not$u0020satisfy$u0020properties$u002E$u0020$u002810pts$u0029" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="QuickCheckSuite.Bogus$u0020$u00284$u0029$u0020binomial$u0020heap$u0020does$u0020not$u0020satisfy$u0020properties$u002E$u0020$u002810pts$u0029" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="progfun2-quickcheck" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="quickcheck.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="quickcheck" />
+      <option name="MAIN_CLASS_NAME" value="quickcheck.QuickCheckSuite" />
+      <option name="METHOD_NAME" value="Bogus$u0020$u00284$u0029$u0020binomial$u0020heap$u0020does$u0020not$u0020satisfy$u0020properties$u002E$u0020$u002810pts$u0029" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="QuickCheckSuite.Bogus$u0020$u00285$u0029$u0020binomial$u0020heap$u0020does$u0020not$u0020satisfy$u0020properties$u002E$u0020$u002810pts$u0029" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="progfun2-quickcheck" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="quickcheck.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="quickcheck" />
+      <option name="MAIN_CLASS_NAME" value="quickcheck.QuickCheckSuite" />
+      <option name="METHOD_NAME" value="Bogus$u0020$u00285$u0029$u0020binomial$u0020heap$u0020does$u0020not$u0020satisfy$u0020properties$u002E$u0020$u002810pts$u0029" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.QuickCheckSuite" />
+        <item itemvalue="JUnit.QuickCheckSuite.Bogus$u0020$u00284$u0029$u0020binomial$u0020heap$u0020does$u0020not$u0020satisfy$u0020properties$u002E$u0020$u002810pts$u0029" />
+        <item itemvalue="JUnit.QuickCheckSuite.Bogus$u0020$u00283$u0029$u0020binomial$u0020heap$u0020does$u0020not$u0020satisfy$u0020properties$u002E$u0020$u002810pts$u0029" />
+        <item itemvalue="JUnit.QuickCheckSuite.Bogus$u0020$u00285$u0029$u0020binomial$u0020heap$u0020does$u0020not$u0020satisfy$u0020properties$u002E$u0020$u002810pts$u0029" />
+        <item itemvalue="JUnit.QuickCheckSuite.Binomial$u0020heap$u0020satisfies$u0020properties$u002E$u0020$u00285pts$u0029" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SbtLocalSettings">
+    <option name="availableProjects">
+      <map>
+        <entry>
+          <key>
+            <ExternalProjectPojo>
+              <option name="name" value="progfun2-quickcheck" />
+              <option name="path" value="$PROJECT_DIR$" />
+            </ExternalProjectPojo>
+          </key>
+          <value>
+            <list>
+              <ExternalProjectPojo>
+                <option name="name" value="quickcheck [file:/C:/Users/Chandra/Documents/Scala/exercise/quickcheck/]" />
+                <option name="path" value="$PROJECT_DIR$" />
+              </ExternalProjectPojo>
+              <ExternalProjectPojo>
+                <option name="name" value="progfun2-quickcheck-build" />
+                <option name="path" value="$PROJECT_DIR$/project" />
+              </ExternalProjectPojo>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="modificationStamps">
+      <map>
+        <entry key="$PROJECT_DIR$/build.sbt" value="1894857077" />
+        <entry key="$PROJECT_DIR$/project/MOOCSettings.scala" value="598648594" />
+        <entry key="$PROJECT_DIR$/project/StudentTasks.scala" value="2255003577" />
+        <entry key="$PROJECT_DIR$/project/build.properties" value="1396028727" />
+        <entry key="$PROJECT_DIR$/project/buildSettings.sbt" value="2649409897" />
+        <entry key="$PROJECT_DIR$/project/plugins.sbt" value="2662701361" />
+      </map>
+    </option>
+    <option name="projectSyncType">
+      <map>
+        <entry key="$PROJECT_DIR$/../forcomp" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../funsets/funsets" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../objsets/objsets" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../patmat" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../functional programming/Functions &amp; Evaluation/example" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../functional programming/Functions &amp; Evaluation/recfun" value="PREVIEW" />
+      </map>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="19f48ea9-58d3-4468-bfa0-5c059ab52060" name="Default Changelist" comment="" />
+      <created>1606232692290</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1606232692290</updated>
+    </task>
+    <servers />
+  </component>
+</project>

@@ -1,0 +1,21 @@
+[info] Packaging C:\Users\Chandra\Documents\Scala\exercise\patmat\target\scala-2.13\progfun1-patmat_2.13-0.1.0-SNAPSHOT.jar ...
+[debug] Input file mappings:
+[debug] 	patmat\Leaf$.class
+[debug] 	  C:\Users\Chandra\Documents\Scala\exercise\patmat\target\scala-2.13\classes\patmat\Leaf$.class
+[debug] 	patmat
+[debug] 	  C:\Users\Chandra\Documents\Scala\exercise\patmat\target\scala-2.13\classes\patmat
+[debug] 	patmat\Fork$.class
+[debug] 	  C:\Users\Chandra\Documents\Scala\exercise\patmat\target\scala-2.13\classes\patmat\Fork$.class
+[debug] 	patmat\Leaf.class
+[debug] 	  C:\Users\Chandra\Documents\Scala\exercise\patmat\target\scala-2.13\classes\patmat\Leaf.class
+[debug] 	patmat\Fork.class
+[debug] 	  C:\Users\Chandra\Documents\Scala\exercise\patmat\target\scala-2.13\classes\patmat\Fork.class
+[debug] 	patmat\Huffman.class
+[debug] 	  C:\Users\Chandra\Documents\Scala\exercise\patmat\target\scala-2.13\classes\patmat\Huffman.class
+[debug] 	patmat\HuffmanInterface.class
+[debug] 	  C:\Users\Chandra\Documents\Scala\exercise\patmat\target\scala-2.13\classes\patmat\HuffmanInterface.class
+[debug] 	patmat\CodeTree.class
+[debug] 	  C:\Users\Chandra\Documents\Scala\exercise\patmat\target\scala-2.13\classes\patmat\CodeTree.class
+[debug] 	patmat\Huffman$.class
+[debug] 	  C:\Users\Chandra\Documents\Scala\exercise\patmat\target\scala-2.13\classes\patmat\Huffman$.class
+[info] Done packaging.
